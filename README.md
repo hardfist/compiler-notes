@@ -4,6 +4,7 @@ A collection of compiler notes from developing Rspack and related tools.
 
 ## English
 
+* [webpack Persistent Cache and Memory Cache](https://github.com/hardfist/compiler-notes/discussions/10)
 * [Fighting Rspack WASM](https://github.com/hardfist/compiler-notes/discussions/8)
 * [JavaScript Compiler: TokenKind](https://github.com/hardfist/compiler-notes/discussions/5)
 * [JavaScript Compiler: Lexer TokenValue and UTF-8](https://github.com/hardfist/compiler-notes/discussions/6)
