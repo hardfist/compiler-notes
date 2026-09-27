@@ -12,7 +12,9 @@ A collection of compiler notes from developing Rspack and related tools.
 
 ## 中文
 
+* [webpack Persistent Cache 和 Memory Cache](https://github.com/hardfist/compiler-notes/discussions/9)
 * [Fighting Rspack WASM](https://github.com/hardfist/compiler-notes/discussions/7)
 * [Javascript Compiler: Lexer Token](https://github.com/hardfist/compiler-notes/discussions/2)
 * [JavaScript Compiler: Lexer TokenValue and UTF8](https://github.com/hardfist/compiler-notes/discussions/3)
 * [Bundler的设计取舍](https://github.com/orgs/web-infra-dev/discussions/4)
+
